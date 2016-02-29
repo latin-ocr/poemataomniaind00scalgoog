@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./poemataomniaind00scalgoog_0136.png"; bbox 0 0 623 1173; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 201 46 462 260">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 201 46 462 260">
+     <span class='ocr_line' id='line_1_1' title="bbox 220 46 462 99; baseline 0.079 -20"><span class='ocrx_word' id='word_1_1' title='bbox 220 46 462 99; x_wconf 50' lang='grc' dir='ltr'><strong><em>ΜΜΜΉᾼ.</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 256 74 462 133; baseline 0.078 -18"><span class='ocrx_word' id='word_1_2' title='bbox 256 74 462 133; x_wconf 52' lang='grc' dir='ltr'><strong><em>Ρέίέἔῖᾶαιϋειζιῃίεᾶι</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 212 122 462 162; baseline 0.076 -24"><span class='ocrx_word' id='word_1_3' title='bbox 212 122 359 154; x_wconf 37' lang='lat' dir='ltr'><strong><em>Bassum-nomb-</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 363 133 462 162; x_wconf 59' lang='lat' dir='ltr'><strong><em>indomitis-tp</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 206 149 462 205; baseline 0.07 -18"><span class='ocrx_word' id='word_1_5' title='bbox 206 149 462 205; x_wconf 35' lang='lat' dir='ltr'><strong><em>stamma*</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 229 199 462 232; baseline 0.082 -20"><span class='ocrx_word' id='word_1_6' title='bbox 229 199 462 232; x_wconf 57' lang='lat' dir='ltr'><strong><em>noqavqapaaaamgbnb</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 201 220 462 260; baseline 0.08 -26"><span class='ocrx_word' id='word_1_7' title='bbox 201 220 251 260; x_wconf 51' lang='lat' dir='ltr'><strong><em>:mm</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 254 222 462 258; x_wconf 61' lang='lat' dir='ltr'><strong><em>masmanna-⁹3⁸⁶..</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 36 42 143 529">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 36 42 143 529">
+     <span class='ocr_line' id='line_1_7' title="bbox 36 42 143 529; baseline 0 644"><span class='ocrx_word' id='word_1_9' title='bbox 36 42 143 529; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

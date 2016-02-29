@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./poemataomniaind00scalgoog_0745.png"; bbox 0 0 623 1173; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 60 42 408 580">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 60 42 408 580">
+     <span class='ocr_line' id='line_1_1' title="bbox 60 42 408 580; baseline 0 593"><span class='ocrx_word' id='word_1_1' title='bbox 60 42 408 580; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 506 376 587 441">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 506 376 587 441">
+     <span class='ocr_line' id='line_1_2' title="bbox 506 376 587 397; baseline -0.025 -1"><span class='ocrx_word' id='word_1_2' title='bbox 506 376 532 397; x_wconf 64' lang='grc' dir='ltr'><strong><em>(ἡ</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 535 377 570 396; x_wconf 58' lang='grc' dir='ltr'><strong><em>ἰδὲ,</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 576 377 587 394; x_wconf 63' lang='grc' dir='ltr'><em>ἃ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 570 423 586 441; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 570 423 586 441; x_wconf 79' lang='grc' dir='ltr'><strong>Δ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 502 463 587 569">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 502 463 587 569">
+     <span class='ocr_line' id='line_1_4' title="bbox 505 463 587 486; baseline -0.012 -3"><span class='ocrx_word' id='word_1_6' title='bbox 505 463 587 486; x_wconf 65' lang='grc' dir='ltr'><strong><em>ιῑθιωόφ</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 503 489 583 513; baseline -0.025 -5"><span class='ocrx_word' id='word_1_7' title='bbox 503 489 583 513; x_wconf 70' lang='grc' dir='ltr'><strong><em>Σᾶμαιμὶι</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 504 512 587 537; baseline -0.012 -5"><span class='ocrx_word' id='word_1_8' title='bbox 504 512 587 537; x_wconf 64' lang='grc' dir='ltr'><strong>Χῲπ’ὲ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 502 538 585 569; baseline -0.012 -13"><span class='ocrx_word' id='word_1_9' title='bbox 502 538 571 569; x_wconf 45' lang='lat' dir='ltr'><strong><em>fugam</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 578 546 585 555; x_wconf 75' lang='lat' dir='ltr'><em>a</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

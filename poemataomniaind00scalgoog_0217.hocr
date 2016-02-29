@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./poemataomniaind00scalgoog_0217.png"; bbox 0 0 623 1173; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 156 46 373 69">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 156 46 373 69">
+     <span class='ocr_line' id='line_1_1' title="bbox 156 46 373 69; baseline 0.014 -8"><span class='ocrx_word' id='word_1_1' title='bbox 156 46 373 69; x_wconf 54' lang='lat' dir='ltr'><em>msumggnemfium</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 130 68 375 123">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 130 68 375 123">
+     <span class='ocr_line' id='line_1_2' title="bbox 130 68 375 95; baseline 0.024 -11"><span class='ocrx_word' id='word_1_2' title='bbox 130 68 375 95; x_wconf 59' lang='lat' dir='ltr'><em>Amur,&amp;sdum‚&amp;gaessitha</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 130 94 375 123; baseline 0.012 -13"><span class='ocrx_word' id='word_1_3' title='bbox 130 94 173 110; x_wconf 73' lang='lat' dir='ltr'><em>Pam</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 177 95 238 111; x_wconf 68' lang='lat' dir='ltr'><em>taan-</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 242 94 305 123; x_wconf 40' lang='grc' dir='ltr'><em>Μέση.</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 308 98 375 120; x_wconf 58' lang='lat' dir='ltr'><em>expo-g</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 129 116 374 146">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 129 116 374 146">
+     <span class='ocr_line' id='line_1_4' title="bbox 129 116 374 146; baseline 0.008 -6"><span class='ocrx_word' id='word_1_7' title='bbox 129 116 374 146; x_wconf 57' lang='lat' dir='ltr'><em>mmmm-nom..</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

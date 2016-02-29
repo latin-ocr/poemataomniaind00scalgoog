@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./poemataomniaind00scalgoog_0413.png"; bbox 0 0 623 1173; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 37 491 246 638">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 37 491 246 638">
+     <span class='ocr_line' id='line_1_1' title="bbox 37 491 160 514; baseline 0.008 -6"><span class='ocrx_word' id='word_1_1' title='bbox 37 491 72 514; x_wconf 60' lang='lat' dir='ltr'><em>miss</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 76 492 111 508; x_wconf 73' lang='lat' dir='ltr'><em>iun</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 116 496 160 509; x_wconf 66' lang='lat' dir='ltr'><em>mu</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 37 515 162 538; baseline -0.008 -6"><span class='ocrx_word' id='word_1_4' title='bbox 37 515 145 538; x_wconf 62' lang='lat' dir='ltr'><em>mtsnpt&#39;nnrm</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 157 518 162 530; x_wconf 68' lang='lat' dir='ltr'><em>J</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 37 540 201 581; baseline 0 -25"><span class='ocrx_word' id='word_1_6' title='bbox 37 540 159 580; x_wconf 43' lang='lat' dir='ltr'><em>&#39;umygzzqn</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 167 564 201 581; x_wconf 48' lang='lat' dir='ltr'><em>‘a‘</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 37 610 246 638; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 37 610 210 638; x_wconf 55' lang='lat' dir='ltr'><em>:fleur-“nm‘s</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 220 621 229 631; x_wconf 35' lang='lat' dir='ltr'><em>-v</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 244 623 246 625; x_wconf 38' lang='lat' dir='ltr'>v</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 32 32 470 642">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 32 32 470 642">
+     <span class='ocr_line' id='line_1_5' title="bbox 32 32 470 642; baseline 0 531"><span class='ocrx_word' id='word_1_11' title='bbox 32 32 470 642; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
